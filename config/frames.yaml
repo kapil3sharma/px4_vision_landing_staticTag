@@ -1,0 +1,7 @@
+/**:
+  ros__parameters:
+    frames:
+      world: map
+      drone: base_link
+      camera: x500_mono_cam_down_0/camera_link/imager
+      tag: tag36h11:0
